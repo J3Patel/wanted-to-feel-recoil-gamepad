@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTA_MACHINE_GUN", "GTA_MACHINE_GUN\GTA_MACHINE_GUN.csproj", "{D609223D-3F85-4346-85BB-0640B5CCB234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D609223D-3F85-4346-85BB-0640B5CCB234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D609223D-3F85-4346-85BB-0640B5CCB234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D609223D-3F85-4346-85BB-0640B5CCB234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D609223D-3F85-4346-85BB-0640B5CCB234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52CF11C-0160-403B-A391-0E5B1A087238}
+	EndGlobalSection
+EndGlobal
